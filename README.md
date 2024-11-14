@@ -35,3 +35,5 @@ _Required Python libraries:_
 `Display_Portfolio()`: Displays all stocks in a formatted table and calculates the total portfolio value.
 
 `manage_shares(symbol, action, shares)`: Manages the addition or subtraction of shares for an existing stock.
+
+_Project Done_
