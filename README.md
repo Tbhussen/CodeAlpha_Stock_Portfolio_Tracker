@@ -23,3 +23,15 @@ _Required Python libraries:_
 `requests`: for making API requests to Alpha Vantage
 
 `prettytable`: for displaying portfolio data in a table format
+
+### Code Structure
+
+`Get_Price(symbol)`: Fetches the current price of a stock symbol from Alpha Vantage.
+
+`add_Stock()`: Adds a new stock or updates the shares of an existing stock.
+
+`remove_Stock(symbol)`: Removes a stock from the portfolio.
+
+`Display_Portfolio()`: Displays all stocks in a formatted table and calculates the total portfolio value.
+
+`manage_shares(symbol, action, shares)`: Manages the addition or subtraction of shares for an existing stock.
